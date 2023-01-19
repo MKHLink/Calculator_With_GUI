@@ -1,5 +1,5 @@
 # Calculator_With_GUI
-A calculator application that I made for my advance Java class using GUI
+A calculator application that makes use of GUI and is able to perform simple arithmatic operations
 
 # Purpose
 Performs Simple Calculations
